@@ -89,6 +89,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },30)
   }
 
+
+  
+
   function gameOver() {
     console.log('game over')
     isGameOver = true
